@@ -10,7 +10,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: xuezhin@kth.se
+    link: mailto:xuezhin@kth.se
   - display:
       header: false
     link: n7729697@gmail.com
