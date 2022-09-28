@@ -11,15 +11,14 @@ social:
   - icon: envelope
     icon_pack: fas
     link: xuezhin@kth.se
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-  - icon: graduation-cap
+  - display:
+      header: false
+    link: n7729697@gmail.com
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    icon: envelope
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/n7729697
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/
